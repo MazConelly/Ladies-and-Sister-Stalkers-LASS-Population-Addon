@@ -15,12 +15,14 @@ Requirements:
 - LASS: https://github.com/Paint-Thinner/Ladies-and-Sister-Stalkers-LASS
 - DICK (only the textures folder is needed): https://www.moddb.com/mods/stalker-anomaly/addons/dick/
 
+For those who want to keep playing as male characters, only the texture folders on those mods are needed.
 
 Current features:
 - Female stalkers should spawn at every rank for every faction.
 - Models fixed to provide NPCs the correct protection (at least as far as the current vanilla limits allow).
 - Missing LASS models: ISG SKAT, eco radsuit, Sin protoexo.
 - Dead female NPCs should drop outfits according to their model.
+- DICK patch. DICK female models are disabled, to avoid redundancy.
 - Duty Expansion patch: Anna can be assigned the more vanilla like IBAZ or SKAT models.
 - Kolin patch: half the mercs in LCS will use the Kolin model.
 
