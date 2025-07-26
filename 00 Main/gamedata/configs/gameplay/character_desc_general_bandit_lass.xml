@@ -1,0 +1,515 @@
+<!-- ============= RANK 0 ============= -->
+<!-- jacket, 8-->
+<specific_character id="sim_default_bandit_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_0_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_0_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_0_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_0_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_0_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_0_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_0.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- jacket, 5-->
+<specific_character id="sim_default_bandit_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<!-- 4 trenchcoat -->
+<specific_character id="sim_default_bandit_1_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<!-- 4 trenchcoat brown -->
+<specific_character id="sim_default_bandit_1_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<!-- 4 trenchcoat green -->
+<specific_character id="sim_default_bandit_1_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_15" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_16" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<!-- 2 bandit beryll -->
+<specific_character id="sim_default_bandit_1_lass_17" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_npc_u_soldier_spetsnaz</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_bandit_sf</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_18" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_npc_u_soldier_spetsnaz</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_bandit_sf</visual>
+</specific_character>
+
+<!-- 1 bandit ps5 -->
+<specific_character id="sim_default_bandit_1_lass_19" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_1_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_bandit</visual>
+</specific_character>
+
+<!-- 2 bandit sts -->
+<specific_character id="sim_default_bandit_1_lass_20" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_2a</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_1_lass_21" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_1.xml"
+    <icon>ui_inGame2_bandit_2a</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_bandit</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 3 trenchcoat -->
+<specific_character id="sim_default_bandit_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<!-- 3 trenchcoat brown -->
+<specific_character id="sim_default_bandit_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<!-- 3 trenchcoat green -->
+<specific_character id="sim_default_bandit_2_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<!-- 2 bandit beryll -->
+<specific_character id="sim_default_bandit_2_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_npc_u_soldier_spetsnaz</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_bandit_sf</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_npc_u_soldier_spetsnaz</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_bandit_sf</visual>
+</specific_character>
+
+<!-- 2 bandit sts -->
+<specific_character id="sim_default_bandit_2_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_2a</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_2_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_2.xml"
+    <icon>ui_inGame2_bandit_2a</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_bandit</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+<!-- 2 trenchcoat -->
+<specific_character id="sim_default_bandit_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit</visual>
+</specific_character>
+
+<!-- 2 trenchcoat brown -->
+<specific_character id="sim_default_bandit_3_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_3_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<!-- 2 trenchcoat green -->
+<specific_character id="sim_default_bandit_3_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_3_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<!-- 1 bandit beryll -->
+<specific_character id="sim_default_bandit_3_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_npc_u_soldier_spetsnaz</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_bandit_sf</visual>
+</specific_character>
+
+<!-- 2 bandit sts -->
+<specific_character id="sim_default_bandit_3_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_2a</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_bandit</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_3_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_2a</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_bandit</visual>
+</specific_character>
+
+<!-- 1 bandit exolight -->
+<specific_character id="sim_default_bandit_3_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_bandit_heavy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_bandit</visual>
+</specific_character>
+
+<!-- 1 bandit skat -->
+<specific_character id="sim_default_bandit_3_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_stalker_bandit_skat</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+    <visual>actors\o_skat9\skat9_f_bandit</visual>
+</specific_character>
+
+<!-- 2 bandit seva -->
+<specific_character id="sim_default_bandit_3_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+	<icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+	<visual>actors\o_seva\stalker_f_band_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_3_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+	<icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+	<visual>actors\o_seva\stalker_f_band_seva</visual>
+</specific_character>
+
+<!-- 1 bandit dark seva -->
+<specific_character id="sim_default_bandit_3_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_3.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\bandit_3\</snd_config>
+    <visual>actors\o_seva\stalker_f_band_seva_dark</visual>
+</specific_character>
+
+
+
+<!-- ============= RANK 4 ============= -->
+<!-- 1 trenchcoat brown -->
+<specific_character id="sim_default_bandit_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+<!-- 1 trenchcoat green -->
+<specific_character id="sim_default_bandit_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_bandit_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<!-- 1 bandit sts -->
+<specific_character id="sim_default_bandit_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_bandit_2a</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_bandit</visual>
+</specific_character>
+
+<!-- 1 bandit exolight -->
+<specific_character id="sim_default_bandit_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_bandit_heavy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_bandit</visual>
+</specific_character>
+
+<!-- 1 bandit skat -->
+<specific_character id="sim_default_bandit_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_stalker_bandit_skat</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+    <visual>actors\o_skat9\skat9_f_bandit</visual>
+</specific_character>
+
+<!-- 2 bandit seva -->
+<specific_character id="sim_default_bandit_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+	<icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+	<visual>actors\o_seva\stalker_f_band_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_4_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+	<icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+	<visual>actors\o_seva\stalker_f_band_seva</visual>
+</specific_character>
+
+<!-- 1 bandit dark seva -->
+<specific_character id="sim_default_bandit_4_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\bandit_3\</snd_config>
+    <visual>actors\o_seva\stalker_f_band_seva_dark</visual>
+</specific_character>
+
+<!-- 3 bandit exoskeleton -->
+<specific_character id="sim_default_bandit_4_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_bandit_exo</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_band</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_4_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_bandit_exo</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_band</visual>
+</specific_character>
+
+<specific_character id="sim_default_bandit_4_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_bandit_4.xml"
+    <icon>ui_inGame2_bandit_exo</icon>
+    <snd_config>characters_voice\human\bandit_2\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_band</visual>
+</specific_character>

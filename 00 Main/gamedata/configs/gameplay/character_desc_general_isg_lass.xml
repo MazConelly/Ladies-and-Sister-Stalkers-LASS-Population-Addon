@@ -1,0 +1,307 @@
+<!-- ============= RANK 1 ============= -->
+<!-- max 2 entries for each model, simulating institutional discrimination -->
+<!-- 2 isg lcs -->
+<specific_character id="sim_default_isg_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg</visual>
+</specific_character>
+
+<!-- 2 isg lcs camo -->
+<specific_character id="sim_default_isg_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_2</visual>
+</specific_character>
+
+<!-- 2 isg lcs urban -->
+<specific_character id="sim_default_isg_1_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_1_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_3</visual>
+</specific_character>
+
+<!-- 1 isg sts -->
+<specific_character id="sim_default_isg_1_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_neutral_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_isg</visual>
+</specific_character>
+
+<!-- 1 isg sts camo -->
+<specific_character id="sim_default_isg_1_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_1.xml"
+    <icon>ui_inGame2_neutral_2_merc</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_isg_merc</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 2 isg lcs -->
+<specific_character id="sim_default_isg_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg</visual>
+</specific_character>
+
+<!-- 2 isg lcs camo -->
+<specific_character id="sim_default_isg_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_2</visual>
+</specific_character>
+
+<!-- 2 isg lcs urban -->
+<specific_character id="sim_default_isg_2_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_2_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_3</visual>
+</specific_character>
+
+<!-- 1 isg sts -->
+<specific_character id="sim_default_isg_2_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_neutral_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_isg</visual>
+</specific_character>
+
+<!-- 1 isg sts camo -->
+<specific_character id="sim_default_isg_2_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_neutral_2_merc</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_isg_merc</visual>
+</specific_character>
+
+<!-- 1 isg ibaz -->
+<specific_character id="sim_default_isg_2_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_2.xml"
+    <icon>ui_inGame2_Soldier_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_assault_vest\light_f_isg</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+<!-- 2 isg lcs -->
+<specific_character id="sim_default_isg_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg</visual>
+</specific_character>
+
+<!-- 2 isg lcs camo -->
+<specific_character id="sim_default_isg_3_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_3_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_2</visual>
+</specific_character>
+
+<!-- 2 isg lcs urban -->
+<specific_character id="sim_default_isg_3_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_3_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_bandit_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_isg_3</visual>
+</specific_character>
+
+<!-- 1 isg sts -->
+<specific_character id="sim_default_isg_3_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_neutral_2_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_isg</visual>
+</specific_character>
+
+<!-- 1 isg sts camo -->
+<specific_character id="sim_default_isg_3_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_neutral_2_merc</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_isg_merc</visual>
+</specific_character>
+
+<!-- 1 isg ibaz -->
+<specific_character id="sim_default_isg_3_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_Soldier_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_assault_vest\light_f_isg</visual>
+</specific_character>
+
+<!-- 2 isg seva -->
+<specific_character id="sim_default_isg_3_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_monolit_1</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_seva\stalker_f_isg_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_3_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_monolit_1</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_seva\stalker_f_isg_seva</visual>
+</specific_character>
+
+<!-- 1 isg skat -->
+<specific_character id="sim_default_isg_3_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_Soldier_4</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_skat9\skat9_f_isg</visual>
+</specific_character>
+
+<!-- 1 isg protoexo -->
+<specific_character id="sim_default_isg_3_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_neutral_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_isg</visual>
+</specific_character>
+
+<!-- 2 isg radsuit -->
+<specific_character id="sim_default_isg_3_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_neutral_3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_isg</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_3_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_3.xml"
+    <icon>ui_inGame2_neutral_3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_isg</visual>
+</specific_character>
+
+
+<!-- ============= RANK 4 ============= -->
+<!-- 1 isg seva -->
+<specific_character id="sim_default_isg_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_4.xml"
+    <icon>ui_inGame2_monolit_1</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_seva\stalker_f_isg_seva</visual>
+</specific_character>
+
+<!-- 1 isg skat -->
+<specific_character id="sim_default_isg_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_4.xml"
+    <icon>ui_inGame2_Soldier_4</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_skat9\skat9_f_isg</visual>
+</specific_character>
+
+<!-- 1 isg protoexo -->
+<specific_character id="sim_default_isg_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_4.xml"
+    <icon>ui_inGame2_neutral_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_isg</visual>
+</specific_character>
+
+<!-- 2 isg radsuit -->
+<specific_character id="sim_default_isg_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_4.xml"
+    <icon>ui_inGame2_neutral_3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_isg</visual>
+</specific_character>
+
+<specific_character id="sim_default_isg_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_4.xml"
+    <icon>ui_inGame2_neutral_3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_isg</visual>
+</specific_character>
+
+<!-- 2 isg exoskeleton -->
+<specific_character id="sim_default_isg_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_4.xml"
+    <icon>ui_inGame2_neutral_4</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_isg</visual>
+</specific_character>
+
+<!-- 1 isg nosorog -->
+<specific_character id="sim_default_isg_4_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_isg_4.xml"
+    <icon>ui_inGame2_neutral_4</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_nosrog\stalker_f_isg_nosrog</visual>
+</specific_character>

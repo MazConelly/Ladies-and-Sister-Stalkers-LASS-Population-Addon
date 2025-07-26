@@ -1,0 +1,140 @@
+<!-- ============= RANK 0 ============= -->
+<!-- max 2 entries for each model, simulating institutional discrimination -->
+<!-- 2 service outfit -->
+<specific_character id="sim_default_military_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_army_0.xml"
+    <icon>ui_inGame2_soldier_1_camo_paint</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier</visual>
+</specific_character>
+
+<specific_character id="sim_default_military_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_army_0.xml"
+    <icon>ui_inGame2_soldier_1_camo_paint</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- 2 service outfit -->
+<specific_character id="sim_default_military_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_army_1.xml"
+    <icon>ui_inGame2_soldier_1_camo_paint</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier</visual>
+</specific_character>
+
+<specific_character id="sim_default_military_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_army_1.xml"
+    <icon>ui_inGame2_soldier_1_camo_paint</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier</visual>
+</specific_character>
+
+<!-- 2 service spec ops -->
+<specific_character id="sim_default_military_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_army_1.xml"
+    <icon>ui_inGame2_Soldier_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier_sf</visual>
+</specific_character>
+
+<specific_character id="sim_default_military_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_army_1.xml"
+    <icon>ui_inGame2_Soldier_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier_sf</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 2 service spec ops -->
+<specific_character id="sim_default_military_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_army_2.xml"
+    <icon>ui_inGame2_Soldier_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier_sf</visual>
+</specific_character>
+
+<specific_character id="sim_default_military_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_army_2.xml"
+    <icon>ui_inGame2_Soldier_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier_sf</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+<!-- 2 service spec ops -->
+<specific_character id="sim_default_military_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_army_3.xml"
+    <icon>ui_inGame2_Soldier_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier_sf</visual>
+</specific_character>
+
+<specific_character id="sim_default_military_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_army_3.xml"
+    <icon>ui_inGame2_Soldier_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_soldier_sf</visual>
+</specific_character>
+
+<!-- 1 radsuit -->
+<specific_character id="sim_default_military_3_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_army_3.xml"
+    <icon>ui_inGame2_stalker_soldier_exo</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_military</visual>
+</specific_character>
+
+
+<!-- ============= RANK 4 ============= -->
+
+<!-- 2 skat -->
+<specific_character id="sim_default_military_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_army_4.xml"
+    <icon>ui_npc_u_stalker_militari_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_military</visual>
+</specific_character>
+
+<specific_character id="sim_default_military_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_army_4.xml"
+    <icon>ui_npc_u_stalker_militari_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_military</visual>
+</specific_character>
+
+<!-- 1 protoexo -->
+<specific_character id="sim_default_military_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_army_4.xml"
+    <icon>ui_inGame2_soldier_prototip_bulat</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_soldier</visual>
+</specific_character>
+
+<!-- 2 exo -->
+<specific_character id="sim_default_military_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_army_4.xml"
+    <icon>ui_inGame2_soldier_exo</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_mil</visual>
+</specific_character>
+
+<specific_character id="sim_default_military_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_army_4.xml"
+    <icon>ui_inGame2_soldier_exo</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_mil</visual>
+</specific_character>
+
+<!-- 1 nosorog -->
+<specific_character id="sim_default_military_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_army_4.xml"
+    <icon>ui_inGame2_nosorog</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nosrog\stalker_f_army_nosrog</visual>
+</specific_character>
+

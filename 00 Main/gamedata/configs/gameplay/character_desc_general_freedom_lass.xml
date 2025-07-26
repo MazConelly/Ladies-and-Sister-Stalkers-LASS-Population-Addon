@@ -1,0 +1,476 @@
+<!-- ============= RANK 0 ============= -->
+<!-- 2 freedom jackets -->
+<specific_character id="sim_default_freedom_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_freedom_nov</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_freedom_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_freedom_nov</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_freedom_jacket</visual>
+</specific_character>
+
+<!-- 1 freedom coat -->
+<specific_character id="sim_default_freedom_0_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_freedom_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_free</visual>
+</specific_character>
+
+<!-- 3 freedom ps5 -->
+<specific_character id="sim_default_freedom_0_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_0_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_0_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<!-- 3 freedom sts -->
+<specific_character id="sim_default_freedom_0_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_0_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_0_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_0f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- 1 freedom coat -->
+<specific_character id="sim_default_freedom_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_freedom_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_free</visual>
+</specific_character>
+
+<!-- 6 freedom sts -->
+<specific_character id="sim_default_freedom_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<!-- 7 freedom ps5 -->
+<specific_character id="sim_default_freedom_1_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_1_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<!-- 1 freedom nbc -->
+<specific_character id="sim_default_freedom_1_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_1f.xml"
+    <icon>ui_inGame2_neutral_2_gp5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_free</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 1 freedom coat -->
+<specific_character id="sim_default_freedom_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_freedom_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_free</visual>
+</specific_character>
+
+<!-- 2 freedom sts -->
+<specific_character id="sim_default_freedom_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_freedom</visual>
+</specific_character>
+
+<!-- 9 freedom ps5 -->
+<specific_character id="sim_default_freedom_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_Freedom_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_freedom</visual>
+</specific_character>
+
+<!-- 1 freedom nbc -->
+<specific_character id="sim_default_freedom_2_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_neutral_2_gp5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_free</visual>
+</specific_character>
+
+<!-- 2 freedom seva -->
+<specific_character id="sim_default_freedom_2_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_freedom_0g</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_free_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_2_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_2f.xml"
+    <icon>ui_inGame2_freedom_0g</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_free_seva</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+<!-- 1 freedom coat -->
+<specific_character id="sim_default_freedom_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_freedom_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_free</visual>
+</specific_character>
+
+<!-- 4 freedom beryll -->
+<specific_character id="sim_default_freedom_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_Freedom_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_freedom_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_3_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_Freedom_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_freedom_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_3_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_Freedom_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_freedom_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_3_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_Freedom_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_freedom_3</visual>
+</specific_character>
+
+<!-- 2 freedom radsuit -->
+<specific_character id="sim_default_freedom_3_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_Freedom_5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_free</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_3_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_Freedom_5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_free</visual>
+</specific_character>
+
+<!-- 1 freedom vineleaf radsuit -->
+<specific_character id="sim_default_freedom_3_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_neutral_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_free_vine</visual>
+</specific_character>
+
+<!-- 2 freedom seva -->
+<specific_character id="sim_default_freedom_3_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_freedom_0g</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_free_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_3_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_3f.xml"
+    <icon>ui_inGame2_freedom_0g</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_free_seva</visual>
+</specific_character>
+
+
+
+<!-- ============= RANK 4 ============= -->
+<!-- 1 freedom coat -->
+<specific_character id="sim_default_freedom_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_freedom_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_free</visual>
+</specific_character>
+
+<!-- 2 freedom beryll -->
+<specific_character id="sim_default_freedom_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_Freedom_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_freedom_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_Freedom_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_freedom_3</visual>
+</specific_character>
+
+<!-- 1 freedom skat -->
+<specific_character id="sim_default_freedom_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_npc_u_stalker_militari_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_freedom</visual>
+</specific_character>
+
+<!-- 1 freedom protoexo -->
+<specific_character id="sim_default_freedom_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_freedom_proto</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_freedom</visual>
+</specific_character>
+
+<!-- 2 freedom radsuit -->
+<specific_character id="sim_default_freedom_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_Freedom_5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_free</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_4_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_Freedom_5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_free</visual>
+</specific_character>
+
+<!-- 3 freedom exoskeleton -->
+<specific_character id="sim_default_freedom_4_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_Freedom_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_free</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_4_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_Freedom_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_free</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_4_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_Freedom_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_free</visual>
+</specific_character>
+
+<!-- 2 freedom nosorog -->
+<specific_character id="sim_default_freedom_4_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_nosorog</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nosrog\stalker_f_free_nosrog</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_4_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_nosorog</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nosrog\stalker_f_free_nosrog</visual>
+</specific_character>
+
+<!-- 2 freedom seva -->
+<specific_character id="sim_default_freedom_4_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_freedom_0g</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_free_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_freedom_4_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_freedom_4f.xml"
+    <icon>ui_inGame2_freedom_0g</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_free_seva</visual>
+</specific_character>

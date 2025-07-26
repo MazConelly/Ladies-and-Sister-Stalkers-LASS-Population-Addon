@@ -1,0 +1,385 @@
+<!-- ============= RANK 0 ============= -->
+<!-- 2 merc lcs -->
+<specific_character id="sim_default_killer_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<!-- 2 merc lcs fighter -->
+<specific_character id="sim_default_killer_0_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_0_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_3</visual>
+</specific_character>
+
+<!-- 1 merc lcs scout -->
+<specific_character id="sim_default_killer_0_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_2</visual>
+</specific_character>
+
+<!-- 1 merc lcs jackal -->
+<specific_character id="sim_default_killer_0_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_npc_u_stalker_ki_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_jackal</visual>
+</specific_character>
+
+<!-- 1 merc sts sun -->
+<specific_character id="sim_default_killer_0_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_merc_sun1</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc_camo</visual>
+</specific_character>
+
+<!-- 1 merc sts nighthunter -->
+<specific_character id="sim_default_killer_0_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_mercsun_old</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc_old</visual>
+</specific_character>
+
+<!-- 1 merc sts wolven -->
+<specific_character id="sim_default_killer_0_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_0f.xml"
+    <icon>ui_inGame2_merc_sun1_merc</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- 4 merc lcs -->
+<specific_character id="sim_default_killer_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<!-- 2 merc lcs fighter -->
+<specific_character id="sim_default_killer_1_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_3</visual>
+</specific_character>
+
+<!-- 1 merc lcs scout -->
+<specific_character id="sim_default_killer_1_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_2</visual>
+</specific_character>
+
+<!-- 1 merc lcs jackal -->
+<specific_character id="sim_default_killer_1_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_npc_u_stalker_ki_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_jackal</visual>
+</specific_character>
+
+<!-- 1 merc lcs coyote -->
+<specific_character id="sim_default_killer_1_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_coyote</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_coyote</visual>
+</specific_character>
+
+<!-- 1 merc sts sun -->
+<specific_character id="sim_default_killer_1_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_sun1</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc_camo</visual>
+</specific_character>
+
+<!-- 1 merc sts nighthunter -->
+<specific_character id="sim_default_killer_1_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_mercsun_old</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc_old</visual>
+</specific_character>
+
+<!-- 1 merc sts wolven -->
+<specific_character id="sim_default_killer_1_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_merc_sun1_merc</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+</specific_character>
+
+<!-- 1 merc nbc -->
+<specific_character id="sim_default_killer_1_lass_15" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_1f.xml"
+    <icon>ui_inGame2_neutral_2_gp5</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_merc</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 4 merc lcs -->
+<specific_character id="sim_default_killer_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<!-- 2 merc lcs fighter -->
+<specific_character id="sim_default_killer_2_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_3</visual>
+</specific_character>
+
+<!-- 1 merc lcs scout -->
+<specific_character id="sim_default_killer_2_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_2</visual>
+</specific_character>
+
+<!-- 1 merc lcs jackal -->
+<specific_character id="sim_default_killer_2_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_npc_u_stalker_ki_mask</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc_jackal</visual>
+</specific_character>
+
+<!-- 1 merc sts sun -->
+<specific_character id="sim_default_killer_2_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_sun1</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc_camo</visual>
+</specific_character>
+
+<!-- 1 merc sts nighthunter -->
+<specific_character id="sim_default_killer_2_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_mercsun_old</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc_old</visual>
+</specific_character>
+
+<!-- 1 merc sts wolven -->
+<specific_character id="sim_default_killer_2_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_merc_sun1_merc</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+</specific_character>
+
+<!-- 1 merc ibaz -->
+<specific_character id="sim_default_killer_2_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_loner_light_metro_suit</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_assault_vest\stalker_f_merc_6</visual>
+</specific_character>
+
+<!-- 1 merc nbc -->
+<specific_character id="sim_default_killer_2_lass_15" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_2f.xml"
+    <icon>ui_inGame2_neutral_2_gp5</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_merc</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+<!-- 1 merc ibaz -->
+<specific_character id="sim_default_killer_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_3f.xml"
+    <icon>ui_inGame2_loner_light_metro_suit</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_assault_vest\stalker_f_merc_6</visual>
+</specific_character>
+
+<!-- 2 merc seva basic -->
+<specific_character id="sim_default_killer_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_3f.xml"
+    <icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_seva\stalker_f_merc_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_3_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_3f.xml"
+    <icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_seva\stalker_f_merc_seva</visual>
+</specific_character>
+
+<!-- 2 merc seva armored -->
+<specific_character id="sim_default_killer_3_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_3f.xml"
+    <icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_seva\stalker_f_merc_seva_armoured</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_3_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_3f.xml"
+    <icon>ui_inGame2_mercenary3</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_seva\stalker_f_merc_seva_armoured</visual>
+</specific_character>
+
+<!-- 2 merc berill -->
+<specific_character id="sim_default_killer_3_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_3f.xml"
+    <icon>ui_inGame2_soldier_strela_3a</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_beril\stalker_f_merc_beril</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_3_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_3f.xml"
+    <icon>ui_inGame2_soldier_strela_3a</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_beril\stalker_f_merc_beril</visual>
+</specific_character>
+
+<!-- ============= RANK 4 ============= -->
+
+<!-- 2 merc skat -->
+<specific_character id="sim_default_killer_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_stalker_merc_skat</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_skat9\skat9_f_military</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_stalker_merc_skat</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_skat9\skat9_f_military</visual>
+</specific_character>
+
+<!-- 2 merc radsuit -->
+<specific_character id="sim_default_killer_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_merc_4a</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_merc_4a</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_merc</visual>
+</specific_character>
+
+<!-- 2 merc wood radsuit -->
+<specific_character id="sim_default_killer_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_merc_4a</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_merc_wood</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_merc_4a</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_merc_wood</visual>
+</specific_character>
+
+<!-- 2 merc exo -->
+<specific_character id="sim_default_killer_4_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_merc_4</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_killer_4_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_merc_4</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_merc</visual>
+</specific_character>
+
+<!-- 1 merc nosorog -->
+<specific_character id="sim_default_killer_4_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_killer_4f.xml"
+    <icon>ui_inGame2_nosorog</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_nosrog\stalker_f_merc_nosrog</visual>
+</specific_character>

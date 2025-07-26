@@ -1,0 +1,656 @@
+<!-- ============= RANK 0 ============= -->
+
+<!-- 2 duty jacket -->
+<specific_character id="sim_default_duty_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_duty_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_duty_jacket</visual>
+</specific_character>
+
+<!-- 7 dolg_outfit -->
+<specific_character id="sim_default_duty_0_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<!-- 3 dolg_scout_outfit -->
+<specific_character id="sim_default_duty_0_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_0_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<!-- 1 dolg_red_outfit -->
+<specific_character id="sim_default_duty_0_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_duty_2_old</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_old</visual>
+</specific_character>
+
+<!-- 1 duty coat -->
+<specific_character id="sim_default_duty_0_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_0.xml"
+    <icon>ui_inGame2_dolg_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_dolg</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- 1 duty jacket -->
+<specific_character id="sim_default_duty_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_duty_jacket</visual>
+</specific_character>
+
+<!-- 7 dolg_outfit -->
+<specific_character id="sim_default_duty_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<!-- 3 dolg_scout_outfit -->
+<specific_character id="sim_default_duty_1_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_1_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<!-- 1 dolg_red_outfit -->
+<specific_character id="sim_default_duty_1_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_duty_2_old</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_old</visual>
+</specific_character>
+
+<!-- 1 duty nbc -->
+<specific_character id="sim_default_duty_1_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_neutral_2_gp5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_dolg</visual>
+</specific_character>
+
+<!-- 1 duty coat -->
+<specific_character id="sim_default_duty_1_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_dolg_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_dolg</visual>
+</specific_character>
+
+<!-- 1 specops_dolg_outfit -->
+<specific_character id="sim_default_duty_1_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_stalker_dolg_berill</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_dolg_berill</visual>
+</specific_character>
+
+<!-- 1 dolg_specops_red_outfit -->
+<specific_character id="sim_default_duty_1_lass_15" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_1.xml"
+    <icon>ui_inGame2_Dolg_1_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_dolg2a_mas3</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 1 duty jacket -->
+<specific_character id="sim_default_duty_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_duty_jacket</visual>
+</specific_character>
+
+<!-- 7 dolg_outfit -->
+<specific_character id="sim_default_duty_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg</visual>
+</specific_character>
+
+
+<!-- 3 dolg_scout_outfit -->
+<specific_character id="sim_default_duty_2_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_2</visual>
+</specific_character>
+
+<!-- 1 dolg_red_outfit -->
+<specific_character id="sim_default_duty_2_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_duty_2_old</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_dolg_old</visual>
+</specific_character>
+
+<!-- 1 duty nbc -->
+<specific_character id="sim_default_duty_2_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_neutral_2_gp5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_dolg</visual>
+</specific_character>
+
+<!-- 1 duty coat -->
+<specific_character id="sim_default_duty_2_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_dolg_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_dolg</visual>
+</specific_character>
+
+<!-- 1 specops_dolg_outfit -->
+<specific_character id="sim_default_duty_2_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_stalker_dolg_berill</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_dolg_berill</visual>
+</specific_character>
+
+<!-- 1 dolg_specops_red_outfit -->
+<specific_character id="sim_default_duty_2_lass_15" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_1_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_dolg2a_mas3</visual>
+</specific_character>
+
+<!-- 2 duty assault vest -->
+<specific_character id="sim_default_duty_2_lass_16" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_light_metro_all_suit</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_assault_vest\stalker_f_dolg1b</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_2_lass_17" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_light_metro_all_suit</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_assault_vest\stalker_f_dolg1b</visual>
+</specific_character>
+
+<!-- 1 duty seva -->
+<specific_character id="sim_default_duty_2_lass_18" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_dolg_seva</visual>
+</specific_character>
+
+<!-- 1 duty seva wood -->
+<specific_character id="sim_default_duty_2_lass_19" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_dolg_seva_wood</visual>
+</specific_character>
+
+<!-- 1 duty seva red -->
+<specific_character id="sim_default_duty_2_lass_20" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_2.xml"
+    <icon>ui_inGame2_Dolg_1</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_dolg_seva_red</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+
+<!-- 1 duty nbc -->
+<specific_character id="sim_default_duty_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_neutral_2_gp5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_dolg</visual>
+</specific_character>
+
+<!-- 1 duty coat -->
+<specific_character id="sim_default_duty_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_ranger</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_dolg</visual>
+</specific_character>
+
+<!-- 1 specops_dolg_outfit -->
+<specific_character id="sim_default_duty_3_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_stalker_dolg_berill</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_dolg_berill</visual>
+</specific_character>
+
+<!-- 1 dolg_specops_red_outfit -->
+<specific_character id="sim_default_duty_3_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_1_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_beril\stalker_f_dolg2a_mas3</visual>
+</specific_character>
+
+<!-- 1 duty assault vest -->
+<specific_character id="sim_default_duty_3_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_light_metro_all_suit</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_assault_vest\stalker_f_dolg1b</visual>
+</specific_character>
+
+<!-- 2 duty skat dolg_pantsir_outfit -->
+<specific_character id="sim_default_duty_3_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg_pantsir</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_3</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg_pantsir</visual>
+</specific_character>
+
+<!-- 2 duty dolg_heavy_redline_outfit -->
+<specific_character id="sim_default_duty_3_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_skat</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg_redline</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_skat</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg_redline</visual>
+</specific_character>
+
+<!-- 7 duty skat dolg_heavy_outfit -->
+<specific_character id="sim_default_duty_3_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_3_lass_15" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<!-- 1 duty proto -->
+<specific_character id="sim_default_duty_3_lass_16" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_dolg</visual>
+</specific_character>
+
+<!-- 1 duty heavy proto -->
+<specific_character id="sim_default_duty_3_lass_17" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_dolgheavy</visual>
+</specific_character>
+
+<!-- 1 duty dolg_exolight_outfit -->
+<specific_character id="sim_default_duty_3_lass_18" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg</visual>
+</specific_character>
+
+<!-- 1 duty exo_dolg_outfit -->
+<specific_character id="sim_default_duty_3_lass_19" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg_2</visual>
+</specific_character>
+
+<!-- 1 duty exo_dolg_wood_outfit -->
+<specific_character id="sim_default_duty_3_lass_20" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg_wood</visual>
+</specific_character>
+
+<!-- 1 duty exo_dolg_urban_outfit -->
+<specific_character id="sim_default_duty_3_lass_21" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_3.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg_urban</visual>
+</specific_character>
+
+
+<!-- ============= RANK 4 ============= -->
+
+<!-- 1 duty dolg_heavy_redline_outfit -->
+<specific_character id="sim_default_duty_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_dolg_skat</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg_redline</visual>
+</specific_character>
+
+<!-- 1 duty skat dolg_heavy_outfit -->
+<specific_character id="sim_default_duty_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_dolg_3_skatus</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_dolg</visual>
+</specific_character>
+
+<!-- 1 duty proto -->
+<specific_character id="sim_default_duty_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_dolg</visual>
+</specific_character>
+
+<!-- 1 duty heavy proto -->
+<specific_character id="sim_default_duty_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_dolgheavy</visual>
+</specific_character>
+
+<!-- 1 duty dolg_exolight_outfit -->
+<specific_character id="sim_default_duty_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg</visual>
+</specific_character>
+
+<!-- 1 duty exo_dolg_outfit -->
+<specific_character id="sim_default_duty_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg_2</visual>
+</specific_character>
+
+<!-- 1 duty exo_dolg_wood_outfit -->
+<specific_character id="sim_default_duty_4_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg_wood</visual>
+</specific_character>
+
+<!-- 1 duty exo_dolg_urban_outfit -->
+<specific_character id="sim_default_duty_4_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_4e</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_dolg_urban</visual>
+</specific_character>
+
+<!-- 2 duty exoskeletons -->
+<specific_character id="sim_default_duty_4_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_dolg</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_4_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_Dolg_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_dolg</visual>
+</specific_character>
+
+<!-- 2 duty nosorogs -->
+<specific_character id="sim_default_duty_4_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_nosorog</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nosrog\stalker_f_dolg_nosrog</visual>
+</specific_character>
+
+<specific_character id="sim_default_duty_4_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_dolg_4.xml"
+    <icon>ui_inGame2_nosorog</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nosrog\stalker_f_dolg_nosrog</visual>
+</specific_character>

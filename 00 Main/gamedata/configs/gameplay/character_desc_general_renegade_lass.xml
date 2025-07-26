@@ -1,0 +1,180 @@
+﻿<!-- ============= RANK 0 ============= -->
+<!-- 3 jacket -->
+<specific_character id="sim_default_renegade_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_bandit_1</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_bandit_1</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_0_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_bandit_1</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<!-- 5 LCS -->
+<specific_character id="sim_default_renegade_0_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_0_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_0_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_0_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_0_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_0.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- 3 jacket -->
+<specific_character id="sim_default_renegade_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_bandit_1</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_bandit_1</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_bandit_1</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_novice\female_bandit_jacket</visual>
+</specific_character>
+
+<!-- 2 trenchcoat -->
+<specific_character id="sim_default_renegade_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+    <icon>ui_inGame2_bandit_4abc</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+    <icon>ui_inGame2_bandit_4abc</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_3</visual>
+</specific_character>
+
+<!-- 6 LCS -->
+<specific_character id="sim_default_renegade_1_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_1_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_1.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 3 LCS -->
+<specific_character id="sim_default_renegade_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_2.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_2.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<specific_character id="sim_default_renegade_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_2.xml"
+		<icon>ui_inGame2_merc_2</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_lcs\stalker_f_lcs_renegade</visual>
+</specific_character>
+
+<!-- 1 seva -->
+<specific_character id="sim_default_renegade_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_2.xml"
+		<icon>ui_inGame2_mercenary3</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_seva\stalker_f_rene_seva</visual>
+</specific_character>
+
+<!-- 1 exo -->
+<specific_character id="sim_default_renegade_2_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_renegade_2.xml"
+		<icon>ui_inGame2_bandit_exo</icon>
+		<snd_config>characters_voice\human\woman\</snd_config>
+		<visual>actors\o_exoskeleton\stalker_f_exo_renegade</visual>
+</specific_character>

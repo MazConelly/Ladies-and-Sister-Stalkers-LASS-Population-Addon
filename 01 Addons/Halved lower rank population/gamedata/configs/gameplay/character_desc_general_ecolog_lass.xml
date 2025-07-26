@@ -1,0 +1,316 @@
+<!-- ============= RANK 0 ============= -->
+<!-- 2 eco guard -->
+<specific_character id="sim_default_ecolog_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_0f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<!-- 1 travel_outfit suit -->
+<specific_character id="sim_default_ecolog_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_0f.xml"
+    <icon>ui_inGame2_neutral_2</icon>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+    <visual>actors\o_explorer\stalker_f_neutral_6</visual>
+</specific_character>
+
+
+<!-- ============= RANK 01 ============= -->
+<specific_character id="sim_default_ecolog_01_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_01f.xml"
+    <icon>ui_inGame2_ecolog_orange</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_orange</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_01_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_01f.xml"
+    <icon>ui_inGame2_ecolog_white</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_white</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_01_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_01f.xml"
+    <icon>ui_inGame2_ecolog_blue</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_blue</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_01_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_01f.xml"
+    <icon>ui_inGame2_ecolog_green</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_green</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_01_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_01f.xml"
+    <icon>ui_inGame2_ecolog_yellow</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_yellow</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_01_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_01f.xml"
+    <icon>ui_inGame2_ecolog_red</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_red</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<specific_character id="sim_default_ecolog_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_1f.xml"
+    <icon>ui_inGame2_ecolog_orange</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_orange</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_1f.xml"
+    <icon>ui_inGame2_ecolog_white</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_white</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_1f.xml"
+    <icon>ui_inGame2_ecolog_blue</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_blue</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_1f.xml"
+    <icon>ui_inGame2_ecolog_green</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_green</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_1_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_1f.xml"
+    <icon>ui_inGame2_ecolog_yellow</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_yellow</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_1_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_1f.xml"
+    <icon>ui_inGame2_ecolog_red</icon>
+    <visual>actors\o_ssp99\ecolog_f_outfit_red</visual>
+    <snd_config>characters_voice\human\woman_eco\</snd_config>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 8 eco guard -->
+<specific_character id="sim_default_ecolog_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<!-- 2 lcs mercs -->
+<specific_character id="sim_default_ecolog_2_lass_17" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_2_lass_18" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<!-- 1 eco seva guard -->
+<specific_character id="sim_default_ecolog_2_lass_19" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_2f.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_neutral_seva</visual>
+</specific_character>
+
+<!-- ============= RANK 3 ============= -->
+
+<!-- 2 eco guard -->
+<specific_character id="sim_default_ecolog_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_3f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_3f.xml"
+    <icon>ui_inGame2_ecolog_guard_blue</icon>
+    <snd_config>characters_voice\human\stalker_3\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_ecolog_guard</visual>
+</specific_character>
+
+<!-- 1 merc lcs -->
+<specific_character id="sim_default_ecolog_3_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_3f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<!-- 1 merc sts wolven -->
+<specific_character id="sim_default_ecolog_3_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_3f.xml"
+    <icon>ui_inGame2_mercsun_old</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+</specific_character>
+
+<!-- 1 eco seva guard -->
+<specific_character id="sim_default_ecolog_3_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_3f.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_neutral_seva</visual>
+</specific_character>
+
+
+<!-- ============= RANK 4 ============= -->
+<!-- 2 merc lcs -->
+<specific_character id="sim_default_ecolog_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_4f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_4f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_merc</visual>
+</specific_character>
+
+<!-- 2 merc sts wolven -->
+<specific_character id="sim_default_ecolog_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_4f.xml"
+    <icon>ui_inGame2_mercsun_old</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+</specific_character>
+
+<specific_character id="sim_default_ecolog_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_4f.xml"
+    <icon>ui_inGame2_mercsun_old</icon>
+    <snd_config>characters_voice\human\woman_merc\</snd_config>
+    <visual>actors\o_sts\stalker_f_sts_merc</visual>
+</specific_character>
+
+<!-- 1 eco proto -->
+<specific_character id="sim_default_ecolog_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_4f.xml"
+    <icon>ui_inGame2_stalker_ecolog_proto</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_eco</visual>
+</specific_character>
+
+<!-- 1 eco radsuit -->
+<specific_character id="sim_default_ecolog_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_4f.xml"
+    <icon>ui_inGame2_Dolg_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_ecolog</visual>
+</specific_character>
+
+<!-- 1 eco seva guard -->
+<specific_character id="sim_default_ecolog_4_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_4f.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_neutral_seva</visual>
+</specific_character>
+
+<!-- ============= RANK 5 ============= -->
+<!-- 1 eco proto -->
+<specific_character id="sim_default_ecolog_5_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_5f.xml"
+    <icon>ui_inGame2_stalker_ecolog_proto</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_eco</visual>
+</specific_character>
+
+<!-- 1 eco radsuit -->
+<specific_character id="sim_default_ecolog_5_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_5f.xml"
+    <icon>ui_inGame2_Dolg_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_ecolog</visual>
+</specific_character>
+
+<!-- 1 eco exoskeleton -->
+<specific_character id="sim_default_ecolog_5_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_5f.xml"
+    <icon>ui_inGame2_Dolg_4</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_eco</visual>
+</specific_character>
+
+<!-- 1 eco seva guard -->
+<specific_character id="sim_default_ecolog_5_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_ecolog_5f.xml"
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_neutral_seva</visual>
+</specific_character>

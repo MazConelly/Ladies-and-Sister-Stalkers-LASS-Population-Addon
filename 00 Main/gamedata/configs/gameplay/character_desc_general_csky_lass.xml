@@ -1,0 +1,377 @@
+<!-- ============= RANK 0 ============= -->
+<!-- 5 cs jacket -->
+<specific_character id="sim_default_csky_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_0f.xml"
+    <icon>ui_inGame2_csky_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_cs_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_0_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_0f.xml"
+    <icon>ui_inGame2_csky_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_cs_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_0_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_0f.xml"
+    <icon>ui_inGame2_csky_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_cs_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_0_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_0f.xml"
+    <icon>ui_inGame2_csky_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_cs_jacket</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_0_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_0f.xml"
+    <icon>ui_inGame2_csky_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_novice\female_cs_jacket</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- 3 cs light -->
+<specific_character id="sim_default_csky_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_1f.xml"
+    <icon>ui_inGame2_csky_1_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_1</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_1_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_1f.xml"
+    <icon>ui_inGame2_csky_1_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_1</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_1_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_1f.xml"
+    <icon>ui_inGame2_csky_1_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_1</visual>
+</specific_character>
+
+<!-- 3 cs sunrise -->
+<specific_character id="sim_default_csky_1_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_1f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_nebo_s_old</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_1_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_1f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_nebo_s_old</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_1_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_1f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_nebo_s_old</visual>
+</specific_character>
+
+<!-- 1 cs ncb -->
+<specific_character id="sim_default_csky_1_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_1f.xml"
+    <icon>ui_inGame2_csky_gp5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_nebo</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 1 cs light -->
+<specific_character id="sim_default_csky_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_1_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_1</visual>
+</specific_character>
+
+<!-- 3 cs sunrise -->
+<specific_character id="sim_default_csky_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_nebo_s_old</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_nebo_s_old</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_2_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_sunrise\stalker_f_nebo_s_old</visual>
+</specific_character>
+
+<!-- 1 cs ncb -->
+<specific_character id="sim_default_csky_2_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_gp5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_nbc\fem_nbc_nebo</visual>
+</specific_character>
+
+<!-- 4 cs medium -->
+<specific_character id="sim_default_csky_2_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_2_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_2_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_2_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_2</visual>
+</specific_character>
+
+<!-- 2 cs heavy -->
+<specific_character id="sim_default_csky_2_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_5_2</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_b</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_2_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_2f.xml"
+    <icon>ui_inGame2_csky_5_2</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_b</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+<!-- 1 cs light -->
+<specific_character id="sim_default_csky_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_1_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_1</visual>
+</specific_character>
+
+<!-- 2 cs medium -->
+<specific_character id="sim_default_csky_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_2</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_3_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_5</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_2</visual>
+</specific_character>
+
+<!-- 3 cs combat -->
+<specific_character id="sim_default_csky_3_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_3</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_3_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_3</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_3_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_3</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_3</visual>
+</specific_character>
+
+<!-- 2 cs heavy -->
+<specific_character id="sim_default_csky_3_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_5_2</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_b</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_3_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_5_2</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_b</visual>
+</specific_character>
+
+<!-- 2 skat -->
+<specific_character id="sim_default_csky_3_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_stalker_nebo_skat</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_nebo</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_3_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_stalker_nebo_skat</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_nebo</visual>
+</specific_character>
+
+<!-- 2 seva -->
+<specific_character id="sim_default_csky_3_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_nauchniy</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_nebo_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_3_lass_11" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_nauchniy</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_nebo_seva</visual>
+</specific_character>
+
+<!-- 1 good seva -->
+<specific_character id="sim_default_csky_3_lass_12" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_nauchniy</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_nebo_seva_good</visual>
+</specific_character>
+
+<!-- 1 protoexo -->
+<specific_character id="sim_default_csky_3_lass_13" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_nebo</visual>
+</specific_character>
+
+<!-- 1 radsuit -->
+<specific_character id="sim_default_csky_3_lass_14" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_3f.xml"
+    <icon>ui_inGame2_csky_exo</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_nebo</visual>
+</specific_character>
+
+
+<!-- ============= RANK 4 ============= -->
+<!-- 1 cs light -->
+<specific_character id="sim_default_csky_4_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_1_1</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_1</visual>
+</specific_character>
+
+<!-- 2 cs combat -->
+<specific_character id="sim_default_csky_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_3</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_3</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_4_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_3</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_csky\stalker_f_nebo_3</visual>
+</specific_character>
+
+<!-- 2 skat -->
+<specific_character id="sim_default_csky_4_lass_3" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_stalker_nebo_skat</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_nebo</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_4_lass_4" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_stalker_nebo_skat</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_skat9\skat9_f_nebo</visual>
+</specific_character>
+
+<!-- 2 seva -->
+<specific_character id="sim_default_csky_4_lass_5" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_nauchniy</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_nebo_seva</visual>
+</specific_character>
+
+<specific_character id="sim_default_csky_4_lass_6" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_nauchniy</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_nebo_seva</visual>
+</specific_character>
+
+<!-- 1 good seva -->
+<specific_character id="sim_default_csky_4_lass_7" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_nauchniy</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_seva\stalker_f_nebo_seva_good</visual>
+</specific_character>
+
+<!-- 1 protoexo -->
+<specific_character id="sim_default_csky_4_lass_8" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_2_gas</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_nebo</visual>
+</specific_character>
+
+<!-- 1 radsuit -->
+<specific_character id="sim_default_csky_4_lass_9" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_exo</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exolight\stalker_f_exolight_nebo</visual>
+</specific_character>
+
+<!-- 1 exo -->
+<specific_character id="sim_default_csky_4_lass_10" team_default = "1">
+#include "gameplay\profiles\character_desc_csky_4f.xml"
+    <icon>ui_inGame2_csky_exo</icon>
+	<snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_exoskeleton\stalker_f_exo_nebo</visual>
+</specific_character>

@@ -1,0 +1,75 @@
+<!-- ============= RANK 0 ============= -->
+<!-- max 1 entry for each model, because they Sin folks cuco -->
+<!-- 1 brown coat -->
+<specific_character id="sim_default_greh_0_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_0f.xml"
+    <icon>ui_inGame2_bandit_5</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_bandit_2</visual>
+</specific_character>
+
+
+<!-- ============= RANK 1 ============= -->
+<!-- 1 sin coat -->
+<specific_character id="sim_default_greh_1_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_1f.xml"
+    <icon>ui_inGame2_bandit_3_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_trenchcoat\trenchcoat_f_greh</visual>
+</specific_character>
+
+
+<!-- ============= RANK 2 ============= -->
+<!-- 1 sin ps5 -->
+<specific_character id="sim_default_greh_2_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_2f.xml"
+    <icon>ui_inGame2_neutral_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_ps5\stalker_f_ps5_greh</visual>
+</specific_character>
+
+<!-- 1 sin lcs -->
+<specific_character id="sim_default_greh_2_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_2f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_greh</visual>
+</specific_character>
+
+<!-- 1 sin lcs camo -->
+<specific_character id="sim_default_greh_2_lass_2" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_2f.xml"
+    <icon>ui_inGame2_neutral_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_greh_2</visual>
+</specific_character>
+
+
+<!-- ============= RANK 3 ============= -->
+
+<!-- 1 sin lcs -->
+<specific_character id="sim_default_greh_3_lass_0" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_3f.xml"
+    <icon>ui_inGame2_merc_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_greh</visual>
+</specific_character>
+
+<!-- 1 sin lcs camo -->
+<specific_character id="sim_default_greh_3_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_3f.xml"
+    <icon>ui_inGame2_neutral_2_mask</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_lcs\stalker_f_lcs_greh_2</visual>
+</specific_character>
+
+
+<!-- ============= RANK 4 ============= -->
+
+<!-- 1 sin proto exo -->
+<specific_character id="sim_default_greh_4_lass_1" team_default = "1">
+#include "gameplay\profiles\character_desc_greh_4f.xml"
+    <icon>ui_inGame2_Freedom_2</icon>
+    <snd_config>characters_voice\human\woman\</snd_config>
+    <visual>actors\o_protoskeleton\stalker_f_exo_proto_greh</visual>
+</specific_character>

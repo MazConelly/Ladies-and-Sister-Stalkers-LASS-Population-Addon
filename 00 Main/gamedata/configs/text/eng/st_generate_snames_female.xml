@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- normal -->
+	<string id="lname_stalker_f_0">
+		<text>Accordion</text>
+	</string>
+	<string id="lname_stalker_f_1">
+		<text>Accountant</text>
+	</string>
+	<string id="lname_stalker_f_2">
+		<text>Ace</text>
+	</string>
+	<string id="lname_stalker_f_3">
+		<text>Ack-ack</text>
+	</string>
+	<string id="lname_stalker_f_4">
+		<text>Agent</text>
+	</string>
+	<string id="lname_stalker_f_5">
+		<text>Alert</text>
+	</string>
+	<string id="lname_stalker_f_6">
+		<text>Alligator</text>
+	</string>
+	<string id="lname_stalker_f_7">
+		<text>Ambassador</text>
+	</string>
+	<string id="lname_stalker_f_8">
+		<text>Angel</text>
+	</string>
+	<string id="lname_stalker_f_9">
+		<text>Anomaly</text>
+	</string>
+	<string id="lname_stalker_f_10">
+		<text>Ant</text>
+	</string>
+	<string id="lname_stalker_f_11">
+		<text>Antelope</text>
+	</string>
+	<string id="lname_stalker_f_12">
+		<text>Anti-air</text>
+	</string>
+	<string id="lname_stalker_f_13">
+		<text>Apostle</text>
+	</string>
+	<string id="lname_stalker_f_14">
+		<text>Arsonist</text>
+	</string>
+	<string id="lname_stalker_f_15">
+		<text>Arrow</text>
+	</string>
+	<string id="lname_stalker_f_16">
+		<text>Artist</text>
+	</string>
+	<string id="lname_stalker_f_17">
+		<text>Ascetic</text>
+	</string>
+	<string id="lname_stalker_f_18">
+		<text>Ash</text>
+	</string>
+	<string id="lname_stalker_f_19">
+		<text>Aspic</text>
+	</string>
+	<string id="lname_stalker_f_20">
+		<text>Athlete</text>
+	</string>
+	<string id="lname_stalker_f_21">
+		<text>Atrocious</text>
+	</string>
+	<string id="lname_stalker_f_22">
+		<text>Aurora</text>
+	</string>
+	<string id="lname_stalker_f_23">
+		<text>Aviator</text>
+	</string>
+	<string id="lname_stalker_f_24">
+		<text>Awl</text>
+	</string>
+	<string id="lname_stalker_f_25">
+		<text>Axe</text>
+	</string>
+	<string id="lname_stalker_f_26">
+		<text>Babbler</text>
+	</string>
+	<string id="lname_stalker_f_27">
+		<text>Backbone</text>
+	</string>
+	<string id="lname_stalker_f_28">
+		<text>Bagel</text>
+	</string>
+	<string id="lname_stalker_f_29">
+		<text>Barabashka</text>
+	</string>
+	<string id="lname_stalker_f_30">
+		<text>Barbarian</text>
+	</string>
+	<string id="lname_stalker_f_31">
+		<text>Bard</text>
+	</string>
+	<string id="lname_stalker_f_32">
+		<text>Barmaley</text>
+	</string>
+	<string id="lname_stalker_f_33">
+		<text>Baroness</text>
+	</string>
+	<string id="lname_stalker_f_34">
+		<text>Barrel</text>
+	</string>
+	<string id="lname_stalker_f_35">
+		<text>Batiy</text>
+	</string>
+	<string id="lname_stalker_f_36">
+		<text>Baton</text>
+	</string>
+	<string id="lname_stalker_f_37">
+		<text>Bayonet</text>
+	</string>
+	<string id="lname_stalker_f_38">
+		<text>Beancounter</text>
+	</string>
+	<string id="lname_stalker_f_39">
+		<text>Beaver</text>
+	</string>
+	<string id="lname_stalker_f_40">
+		<text>Bedbug</text>
+	</string>
+	<string id="lname_stalker_f_41">
+		<text>Beekeeper</text>
+	</string>
+	<string id="lname_stalker_f_42">
+		<text>Beetle</text>
+	</string>
+	<string id="lname_stalker_f_43">
+		<text>Belly</text>
+	</string>
+	<string id="lname_stalker_f_44">
+		<text>Big-eyed</text>
+	</string>
+	<string id="lname_stalker_f_45">
+		<text>Bigtime</text>
+	</string>
+	<string id="lname_stalker_f_46">
+		<text>Biscuit</text>
+	</string>
+	<string id="lname_stalker_f_47">
+		<text>Bison</text>
+	</string>
+	<string id="lname_stalker_f_48">
+		<text>Bitter</text>
+	</string>
+	<string id="lname_stalker_f_49">
+		<text>Black</text>
+	</string>
+	<string id="lname_stalker_f_50">
+		<text>Blessed</text>
+	</string>
+	<string id="lname_stalker_f_51">
+		<text>Blighter</text>
+	</string>
+	<string id="lname_stalker_f_52">
+		<text>Blimp</text>
+	</string>
+	<string id="lname_stalker_f_53">
+		<text>Blind</text>
+	</string>
+	<string id="lname_stalker_f_54">
+		<text>Bling-bling</text>
+	</string>
+	<string id="lname_stalker_f_55">
+		<text>Blithe</text>
+	</string>
+	<string id="lname_stalker_f_56">
+		<text>Block</text>
+	</string>
+	<string id="lname_stalker_f_57">
+		<text>Bloodhound</text>
+	</string>
+	<string id="lname_stalker_f_58">
+		<text>Boatswain</text>
+	</string>
+	<string id="lname_stalker_f_59">
+		<text>Bolt</text>
+	</string>
+	<string id="lname_stalker_f_60">
+		<text>Bony</text>
+	</string>
+	<string id="lname_stalker_f_61">
+		<text>Boot</text>
+	</string>
+	<string id="lname_stalker_f_62">
+		<text>Booze</text>
+	</string>
+	<string id="lname_stalker_f_63">
+		<text>Bore</text>
+	</string>
+	<string id="lname_stalker_f_64">
+		<text>Bosun</text>
+	</string>
+	<string id="lname_stalker_f_65">
+		<text>Boulder</text>
+	</string>
+	<string id="lname_stalker_f_66">
+		<text>Brainiac</text>
+	</string>
+	<string id="lname_stalker_f_67">
+		<text>Brave</text>
+	</string>
+	<string id="lname_stalker_f_68">
+		<text>Break</text>
+	</string>
+	<string id="lname_stalker_f_69">
+		<text>Breech</text>
+	</string>
+	<string id="lname_stalker_f_70">
+		<text>Brick</text>
+	</string>
+	<string id="lname_stalker_f_71">
+		<text>Brown Nose</text>
+	</string>
+	<string id="lname_stalker_f_72">
+		<text>Brownie</text>
+	</string>
+	<string id="lname_stalker_f_73">
+		<text>Bruise</text>
+	</string>
+	<string id="lname_stalker_f_74">
+		<text>Bubble</text>
+	</string>
+	<string id="lname_stalker_f_75">
+		<text>Champion</text>
+	</string>
+	<string id="lname_stalker_f_76">
+		<text>Clover</text>
+	</string>
+	<string id="lname_stalker_f_77">
+		<text>Clumsy</text>
+	</string>
+	<string id="lname_stalker_f_78">
+		<text>Cobra</text>
+	</string>
+	<string id="lname_stalker_f_79">
+		<text>Cranky</text>
+	</string>
+	<string id="lname_stalker_f_80">
+		<text>Dancer</text>
+	</string>
+	<string id="lname_stalker_f_81">
+		<text>Doe</text>
+	</string>
+	<string id="lname_stalker_f_82">
+		<text>Duchess</text>
+	</string>
+	<string id="lname_stalker_f_83">
+		<text>Experienced</text>
+	</string>
+	<string id="lname_stalker_f_84">
+		<text>Feline</text>
+	</string>
+	<string id="lname_stalker_f_85">
+		<text>Ferocious</text>
+	</string>
+	<string id="lname_stalker_f_86">
+		<text>Fizzy</text>
+	</string>
+	<string id="lname_stalker_f_87">
+		<text>Flower</text>
+	</string>
+	<string id="lname_stalker_f_88">
+		<text>Fox</text>
+	</string>
+	<string id="lname_stalker_f_89">
+		<text>Foxy</text>
+	</string>
+	<string id="lname_stalker_f_90">
+		<text>Furry</text>
+	</string>
+	<string id="lname_stalker_f_91">
+		<text>Gazelle</text>
+	</string>
+	<string id="lname_stalker_f_92">
+		<text>Gloomy</text>
+	</string>
+	<string id="lname_stalker_f_93">
+		<text>Gymnast</text>
+	</string>
+	<string id="lname_stalker_f_94">
+		<text>Kind</text>
+	</string>
+	<string id="lname_stalker_f_95">
+		<text>Lamb</text>
+	</string>
+	<string id="lname_stalker_f_96">
+		<text>Lightning</text>
+	</string>
+	<string id="lname_stalker_f_97">
+		<text>Maid</text>
+	</string>
+	<string id="lname_stalker_f_98">
+		<text>Mermaid</text>
+	</string>
+	<string id="lname_stalker_f_99">
+		<text>Mouse</text>
+	</string>
+	<string id="lname_stalker_f_100">
+		<text>Muse</text>
+	</string>
+	<string id="lname_stalker_f_101">
+		<text>Naughty</text>
+	</string>
+	<string id="lname_stalker_f_102">
+		<text>Needle</text>
+	</string>
+	<string id="lname_stalker_f_103">
+		<text>Odd</text>
+	</string>
+	<string id="lname_stalker_f_104">
+		<text>Packing</text>
+	</string>
+	<string id="lname_stalker_f_105">
+		<text>Pestilence</text>
+	</string>
+	<string id="lname_stalker_f_106">
+		<text>Princess</text>
+	</string>
+	<string id="lname_stalker_f_107">
+		<text>Rabbit</text>
+	</string>
+	<string id="lname_stalker_f_108">
+		<text>Raven</text>
+	</string>
+	<string id="lname_stalker_f_109">
+		<text>Reaper</text>
+	</string>
+	<string id="lname_stalker_f_110">
+		<text>Red</text>
+	</string>
+	<string id="lname_stalker_f_111">
+		<text>Rose</text>
+	</string>
+	<string id="lname_stalker_f_112">
+		<text>Rude</text>
+	</string>
+	<string id="lname_stalker_f_113">
+		<text>Sergeant</text>
+	</string>
+	<string id="lname_stalker_f_114">
+		<text>Serpent</text>
+	</string>
+	<string id="lname_stalker_f_115">
+		<text>She-wolf</text>
+	</string>
+	<string id="lname_stalker_f_116">
+		<text>Simple</text>
+	</string>
+	<string id="lname_stalker_f_117">
+		<text>Skilled</text>
+	</string>
+	<string id="lname_stalker_f_118">
+		<text>Siren</text>
+	</string>
+	<string id="lname_stalker_f_119">
+		<text>Snake</text>
+	</string>
+	<string id="lname_stalker_f_120">
+		<text>Snow</text>
+	</string>
+	<string id="lname_stalker_f_121">
+		<text>Spectre</text>
+	</string>
+	<string id="lname_stalker_f_122">
+		<text>Spider</text>
+	</string>
+	<string id="lname_stalker_f_123">
+		<text>Spots</text>
+	</string>
+	<string id="lname_stalker_f_124">
+		<text>Succubus</text>
+	</string>
+	<string id="lname_stalker_f_125">
+		<text>Strange</text>
+	</string>
+	<string id="lname_stalker_f_126">
+		<text>Strict</text>
+	</string>
+	<string id="lname_stalker_f_127">
+		<text>Trickster</text>
+	</string>
+	<string id="lname_stalker_f_128">
+		<text>Unique</text>
+	</string>
+	<string id="lname_stalker_f_129">
+		<text>Vex</text>
+	</string>
+	<string id="lname_stalker_f_130">
+		<text>Viper</text>
+	</string>
+	<string id="lname_stalker_f_131">
+		<text>Vipra</text>
+	</string>
+	<string id="lname_stalker_f_132">
+		<text>Warrior</text>
+	</string>
+	<string id="lname_stalker_f_133">
+		<text>Weirdo</text>
+	</string>
+	<string id="lname_stalker_f_134">
+		<text>Wicked</text>
+	</string>
+	<string id="lname_stalker_f_135">
+		<text>Widow</text>
+	</string>
+	<string id="lname_stalker_f_136">
+		<text>Wolf</text>
+	</string>
+<!-- scientists -->
+	<string id="lname_science_f_0">
+		<text>Alferova</text>
+	</string>
+	<string id="lname_science_f_1">
+		<text>Alfyorova</text>
+	</string>
+	<string id="lname_science_f_2">
+		<text>Amalieva</text>
+	</string>
+	<string id="lname_science_f_3">
+		<text>Andreeva</text>
+	</string>
+	<string id="lname_science_f_4">
+		<text>Andreyeva</text>
+	</string>
+	<string id="lname_science_f_5">
+		<text>Antipina</text>
+	</string>
+	<string id="lname_science_f_6">
+		<text>Balitskaya</text>
+	</string>
+	<string id="lname_science_f_7">
+		<text>Baranova</text>
+	</string>
+	<string id="lname_science_f_8">
+		<text>Barinova</text>
+	</string>
+	<string id="lname_science_f_9">
+		<text>Belkina</text>
+	</string>
+	<string id="lname_science_f_10">
+		<text>Belyavina</text>
+	</string>
+	<string id="lname_science_f_11">
+		<text>Berezova</text>
+	</string>
+	<string id="lname_science_f_12">
+		<text>Biryukova</text>
+	</string>
+	<string id="lname_science_f_13">
+		<text>Blinova</text>
+	</string>
+	<string id="lname_science_f_14">
+		<text>Bogomolova</text>
+	</string>
+	<string id="lname_science_f_15">
+		<text>Bulkina</text>
+	</string>
+	<string id="lname_science_f_16">
+		<text>Chernoduba</text>
+	</string>
+	<string id="lname_science_f_17">
+		<text>Chirikova</text>
+	</string>
+	<string id="lname_science_f_18">
+		<text>Chumakova</text>
+	</string>
+	<string id="lname_science_f_19">
+		<text>Demidova</text>
+	</string>
+	<string id="lname_science_f_20">
+		<text>Dubinina</text>
+	</string>
+	<string id="lname_science_f_21">
+		<text>Dyakonova</text>
+	</string>
+	<string id="lname_science_f_22">
+		<text>Epiphonova</text>
+	</string>
+	<string id="lname_science_f_23">
+		<text>Erohina</text>
+	</string>
+	<string id="lname_science_f_24">
+		<text>Erokhina</text>
+	</string>
+	<string id="lname_science_f_25">
+		<text>Fadeeva</text>
+	</string>
+	<string id="lname_science_f_26">
+		<text>Fadeyeva</text>
+	</string>
+	<string id="lname_science_f_27">
+		<text>Feigelman</text>
+	</string>
+	<string id="lname_science_f_28">
+		<text>Feygelman</text>
+	</string>
+	<string id="lname_science_f_29">
+		<text>Geshkenbein</text>
+	</string>
+	<string id="lname_science_f_30">
+		<text>Grushiova</text>
+	</string>
+	<string id="lname_science_f_31">
+		<text>Ivanova</text>
+	</string>
+	<string id="lname_science_f_32">
+		<text>Ivchenko</text>
+	</string>
+	<string id="lname_science_f_33">
+		<text>Kabanova</text>
+	</string>
+	<string id="lname_science_f_34">
+		<text>Korneva</text>
+	</string>
+	<string id="lname_science_f_35">
+		<text>Korneeva</text>
+	</string>
+	<string id="lname_science_f_36">
+		<text>Kozlova</text>
+	</string>
+	<string id="lname_science_f_37">
+		<text>Kulikova</text>
+	</string>
+	<string id="lname_science_f_38">
+		<text>Larina</text>
+	</string>
+	<string id="lname_science_f_39">
+		<text>Ledentsova</text>
+	</string>
+	<string id="lname_science_f_40">
+		<text>Malinina</text>
+	</string>
+	<string id="lname_science_f_41">
+		<text>Manko</text>
+	</string>
+	<string id="lname_science_f_42">
+		<text>Matveeva</text>
+	</string>
+	<string id="lname_science_f_43">
+		<text>Mironova</text>
+	</string>
+	<string id="lname_science_f_44">
+		<text>Oganesyana</text>
+	</string>
+	<string id="lname_science_f_45">
+		<text>Petrova</text>
+	</string>
+	<string id="lname_science_f_46">
+		<text>Potapova</text>
+	</string>
+	<string id="lname_science_f_47">
+		<text>Prokofieva</text>
+	</string>
+	<string id="lname_science_f_48">
+		<text>Sakharov</text>
+	</string>
+	<string id="lname_science_f_49">
+		<text>Saveleva</text>
+	</string>
+	<string id="lname_science_f_50">
+		<text>Shilova</text>
+	</string>
+	<string id="lname_science_f_51">
+		<text>Shishkina</text>
+	</string>
+	<string id="lname_science_f_52">
+		<text>Sidorova</text>
+	</string>
+	<string id="lname_science_f_53">
+		<text>Simonova</text>
+	</string>
+	<string id="lname_science_f_54">
+		<text>Sinaeva</text>
+	</string>
+	<string id="lname_science_f_55">
+		<text>Sinayeva</text>
+	</string>
+	<string id="lname_science_f_56">
+		<text>Soboleva</text>
+	</string>
+	<string id="lname_science_f_57">
+		<text>Spirina</text>
+	</string>
+	<string id="lname_science_f_58">
+		<text>Steklova</text>
+	</string>
+	<string id="lname_science_f_59">
+		<text>Stepanenko</text>
+	</string>
+	<string id="lname_science_f_60">
+		<text>Ulyanova</text>
+	</string>
+	<string id="lname_science_f_61">
+		<text>Vasileva</text>
+	</string>
+	<string id="lname_science_f_62">
+		<text>Vasilevich</text>
+	</string>
+	<string id="lname_science_f_63">
+		<text>Zaharova</text>
+	</string>
+	<string id="lname_science_f_64">
+		<text>Zaikina</text>
+	</string>
+	<string id="lname_science_f_65">
+		<text>Zakharova</text>
+	</string>
+	<string id="lname_science_f_66">
+		<text>Zorina</text>
+	</string>
+</string_table>

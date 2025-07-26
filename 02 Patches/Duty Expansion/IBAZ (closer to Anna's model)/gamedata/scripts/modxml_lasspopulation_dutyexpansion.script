@@ -1,0 +1,9 @@
+function on_game_start()
+    RegisterScriptCallback("on_specific_character_init", function(character_id, data)
+
+        if character_id == "stalker_duty_girl" then
+            data.visual = "actors\\o_assault_vest\\stalker_f_dolg1b"
+        end
+
+    end)
+end
