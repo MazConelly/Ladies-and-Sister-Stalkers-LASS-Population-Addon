@@ -2,27 +2,27 @@ function on_game_start()
     RegisterScriptCallback("on_specific_character_init", function(character_id, data)
 
         if character_id == "sim_default_ecolog_3_lass_4" then
-            data.visual = "actors\mnp_npc_remeik\merc_meshanik"
+            data.visual = "actors\\mnp_npc_remeik\\merc_meshanik"
         end
 
         if character_id == "sim_default_ecolog_4_lass_2" then
-            data.visual = "actors\mnp_npc_remeik\merc_meshanik"
+            data.visual = "actors\\mnp_npc_remeik\\merc_meshanik"
         end
 
         if character_id == "sim_default_ecolog_4_lass_3" then
-            data.visual = "actors\mnp_npc_remeik\merc_meshanik"
+            data.visual = "actors\\mnp_npc_remeik\\merc_meshanik"
         end
 
         if character_id == "sim_default_killer_0_lass_8" then
-            data.visual = "actors\mnp_npc_remeik\merc_meshanik"
+            data.visual = "actors\\mnp_npc_remeik\\merc_meshanik"
         end
 
         if character_id == "sim_default_killer_1_lass_14" then
-            data.visual = "actors\mnp_npc_remeik\merc_meshanik"
+            data.visual = "actors\\mnp_npc_remeik\\merc_meshanik"
         end
 
         if character_id == "sim_default_killer_2_lass_13" then
-            data.visual = "actors\mnp_npc_remeik\merc_meshanik"
+            data.visual = "actors\\mnp_npc_remeik\\merc_meshanik"
         end
 
     end)
