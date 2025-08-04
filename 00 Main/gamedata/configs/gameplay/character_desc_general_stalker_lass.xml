@@ -1296,14 +1296,14 @@
 #include "gameplay\profiles\character_desc_stalker_4f.xml"
     <icon>ui_inGame2_neutral_4</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
-    <visual>actors\o_exoskeleton\stalker_f_exolight</visual>
+    <visual>actors\o_exolight\stalker_f_exolight</visual>
 </specific_character>
 
 <specific_character id="sim_default_stalker_4_lass_5" team_default = "1">
 #include "gameplay\profiles\character_desc_stalker_4f.xml"
     <icon>ui_inGame2_neutral_4</icon>
     <snd_config>characters_voice\human\woman\</snd_config>
-    <visual>actors\o_exoskeleton\stalker_f_exolight</visual>
+    <visual>actors\o_exolight\stalker_f_exolight</visual>
 </specific_character>
 
 <!-- 1 exo -->
